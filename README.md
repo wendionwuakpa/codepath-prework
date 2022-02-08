@@ -5,7 +5,7 @@ It allows kindegarden age children to get a good introduction into technology th
 
 ### App Walk-though
 
-![](https://i.imgur.com/rGsUvrE.gif)
+![](https://i.imgur.com/Uoyblxf.gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
