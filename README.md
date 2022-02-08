@@ -4,8 +4,8 @@
 It allows kindegarden age children to get a good introduction into technology that facilitates their learning. The app is user-friendly, does not require internet connection and has four basic functionalities that can be repeated multiple times and is still entertaining.
 
 ### App Walk-though
+![](https://i.imgur.com/MKG4EDa.gif)
 
-![](https://i.imgur.com/Uoyblxf.gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
